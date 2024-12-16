@@ -1,0 +1,7 @@
+server:
+  address: "localhost:8080"
+redis:
+  address: "localhost:6379"
+  password: ""
+  db: 0
+  ttl: "10s"
